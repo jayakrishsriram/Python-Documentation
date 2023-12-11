@@ -4,4 +4,4 @@ This is a repo that is created to give some basic knowledgement through document
 Soon you can find many topics available
 
 Note:
-These details are taken from many courses as a reference.
+These details are taken from many source as a reference.
