@@ -4,6 +4,7 @@ This is a repo that is created to give some basic knowledgement through document
 Soon you can find many topics available.
 
 To create a virtual Environment follow the steps given.
+0. Open the terminal in cmd
 1.  python -m venv myenv   # myenv is the name of the environment.
 2.  myenv\Scripts\activate
 
